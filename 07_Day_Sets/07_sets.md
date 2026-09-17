@@ -371,7 +371,7 @@ python.symmetric_difference(dragon)  # {'r', 't', 'p', 'y', 'g', 'a', 'd', 'h'}
 # python ^ dragon
 ```
 
-### Joining Sets
+### Checking Disjoint Sets
 
 If two sets do not have a common item or items we call them disjoint sets. We can check if two sets are joint or disjoint using _isdisjoint()_ method.
 
